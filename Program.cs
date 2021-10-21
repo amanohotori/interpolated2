@@ -14,8 +14,8 @@ public class Example
 
       Console.WriteLine("Author and Title List");
       Console.WriteLine();
-      Console.WriteLine($"|{"Author",-25}|{"Title",30}|");
+      Console.WriteLine($"|{"Author",25}|{"Title",30}|");
       foreach (var title in titles)
-         Console.WriteLine($"|{title.Key,-25}|{title.Value,30}|");
+         Console.WriteLine($"|{title.Key,25}|{title.Value,30}|");
    }
 }
