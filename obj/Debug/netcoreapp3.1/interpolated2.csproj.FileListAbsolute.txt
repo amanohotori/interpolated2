@@ -1,0 +1,13 @@
+C:\proot\project\_SelfLearning\LearningCSharp\interpolated2\bin\Debug\netcoreapp3.1\interpolated2.exe
+C:\proot\project\_SelfLearning\LearningCSharp\interpolated2\bin\Debug\netcoreapp3.1\interpolated2.deps.json
+C:\proot\project\_SelfLearning\LearningCSharp\interpolated2\bin\Debug\netcoreapp3.1\interpolated2.runtimeconfig.json
+C:\proot\project\_SelfLearning\LearningCSharp\interpolated2\bin\Debug\netcoreapp3.1\interpolated2.runtimeconfig.dev.json
+C:\proot\project\_SelfLearning\LearningCSharp\interpolated2\bin\Debug\netcoreapp3.1\interpolated2.dll
+C:\proot\project\_SelfLearning\LearningCSharp\interpolated2\bin\Debug\netcoreapp3.1\interpolated2.pdb
+C:\proot\project\_SelfLearning\LearningCSharp\interpolated2\obj\Debug\netcoreapp3.1\interpolated2.csprojAssemblyReference.cache
+C:\proot\project\_SelfLearning\LearningCSharp\interpolated2\obj\Debug\netcoreapp3.1\interpolated2.AssemblyInfoInputs.cache
+C:\proot\project\_SelfLearning\LearningCSharp\interpolated2\obj\Debug\netcoreapp3.1\interpolated2.AssemblyInfo.cs
+C:\proot\project\_SelfLearning\LearningCSharp\interpolated2\obj\Debug\netcoreapp3.1\interpolated2.csproj.CoreCompileInputs.cache
+C:\proot\project\_SelfLearning\LearningCSharp\interpolated2\obj\Debug\netcoreapp3.1\interpolated2.dll
+C:\proot\project\_SelfLearning\LearningCSharp\interpolated2\obj\Debug\netcoreapp3.1\interpolated2.pdb
+C:\proot\project\_SelfLearning\LearningCSharp\interpolated2\obj\Debug\netcoreapp3.1\interpolated2.genruntimeconfig.cache
